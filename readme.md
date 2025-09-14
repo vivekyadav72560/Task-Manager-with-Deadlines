@@ -1,1 +1,1 @@
-#this is task manager with deadlines project.
+#this is "Task Manager With Deadlines" project.
